@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Travelapp</string>
+    <string name="travelite">Travelite</string>
+    <string name="sign_in_with_google">sign_in_with_google</string>
+    <string name="web_client_id">137107754670-d44drcik6qf8vc51nthlde8gs0hm3qi8.apps.googleusercontent.com</string>
+
+    <string name="convertText">Convert</string>
+    <string name="toCTA">↓</string>
+    <string name="fromHint">Enter Amount</string>
+    <string name="toHint">Press Convert</string>
+
+    <string-array name="currency_options">
+        <item>USD</item>
+        <item>INR </item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="title_activity_maps">Current Place Details</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="option_get_place">Get place</string>
+    <string name="pick_place">Choose a place</string>
+    <string name="enter_the_city">Enter the City</string>
+    <string name="enter_the_country" />
+    <string name="weather_update">Weather Update</string>
+    <string name="enter_city_name">Enter City Name</string>
+</resources>
